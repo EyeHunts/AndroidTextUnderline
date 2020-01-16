@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android text underline</string>
+    <string name="ul_string_here">This is an <u>underline</u> using a string resource xml file </string>
+</resources>
